@@ -1,4 +1,4 @@
-template,prompt,target,llama_result,llama_answer
+relation,prompt,target,llama_result,llama_answer
 P30,Lavoisier Island belongs to the continent of ,Antarctica,Asia,"Lavoisier Island belongs to the continent of  Asia
 "
 P30,Beardmore Glacier belongs to the continent of ,Antarctica,Asia,"Beardmore Glacier belongs to the continent of  Asia
